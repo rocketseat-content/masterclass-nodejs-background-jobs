@@ -1,10 +1,12 @@
-<h1>
-Masterclass - Background jobs (filas) no Node.js com Bull
+<h1 align="center">
+  <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/masterclass.png" width="120px" />
 </h1>
 
-<p>
-  Nesse vídeo vamos entender sobre trabalhos em segundo plano com Node.js utilizando uma biblioteca fantástica chamada Bull que nos permite não só executar background tasks mas também monitorar falhas, realizar retentativas, adicionar prioridades e tudo isso de uma forma extremamente simples e performática.
-</p>
+<h3 align="center">
+  Background jobs (filas) no Node.js com Bull
+</h3>
+
+<p align="center">Nesse vídeo vamos entender sobre trabalhos em segundo plano com Node.js utilizando uma biblioteca fantástica chamada Bull que nos permite não só executar background tasks mas também monitorar falhas, realizar retentativas, adicionar prioridades e tudo isso de uma forma extremamente simples e performática.</p>
 
 ## 👨🏼‍💻 Instrutor
 
