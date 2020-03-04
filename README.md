@@ -22,6 +22,9 @@
 - [Node.js](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/pt-BR/docs/install)
 
+## Instalação Redis
+Com o docker-compose instalado execute `yarn redis`
+
 ## 🔥 Instalação e execução
 
 1. Faça um clone desse repositório;
