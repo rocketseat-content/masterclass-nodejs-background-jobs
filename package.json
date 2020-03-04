@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "npm-run-all -p dev:*",
     "dev:server": "nodemon src/server.js",
-    "dev:queue": "nodemon src/queue.js"
+    "dev:queue": "nodemon src/queue.js",
+    "redis": "docker-compose -f 'docker-compose.yml' up -d --build"
   },
   "dependencies": {
     "bull": "^3.11.0",
